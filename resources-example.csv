@@ -1,0 +1,2 @@
+Identifier,Tag: Name,Service,Type,Region,Tag: aws:backup:source-resource,Tag: icts,Tags,ARN
+snap-01d77aebfbc1b6778,(not tagged),EC2,Snapshot,us-east-1,7E754899-7E34-20AD-877F-D72A399288D2,(not tagged),1,arn:aws:ec2:us-east-1:5258267:snapshot/snap-01d77c1b6778
